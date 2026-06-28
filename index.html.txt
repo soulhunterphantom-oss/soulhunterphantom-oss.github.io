@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+  <meta charset="UTF-8">
+  <title>Методичні матеріали – Василь Фурман</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <style>
+    body { font-family: Arial, sans-serif; margin: 0; background: #f5f5f5; }
+    header { background: #333; color: #fff; padding: 1rem; }
+    nav a { color: #fff; margin-right: 1rem; text-decoration: none; }
+    main { max-width: 900px; margin: 2rem auto; background: #fff; padding: 2rem; }
+    h1, h2 { margin-top: 0; }
+    footer { text-align: center; padding: 1rem; font-size: 0.9rem; color: #666; }
+    .post-list li { margin-bottom: 0.5rem; }
+  </style>
+</head>
+<body>
+<header>
+  <h1>Методичні матеріали – Василь Фурман</h1>
+  <nav>
+    <a href="index.html">Головна</a>
+    <a href="about.html">Про автора</a>
+    <a href="materials.html">Методичні матеріали</a>
+    <a href="club.html">Гурток</a>
+    <a href="archive.html">Архів</a>
+  </nav>
+</header>
+
+<main>
+  <h2>Ласкаво просимо</h2>
+  <p>Це оновлена версія сайту з методичними матеріалами, сценаріями та розробками для вчителів.</p>
+
+  <h3>Останні публікації</h3>
+  <ul class="post-list">
+    <li><a href="post-1.html">Сценарій виховної години «День пам’яті»</a></li>
+    <li><a href="post-2.html">Розробка уроку з історії для 9 класу</a></li>
+    <li><a href="post-3.html">Матеріали для роботи гуртка «Юні краєзнавці»</a></li>
+  </ul>
+</main>
+
+<footer>
+  © Василь Фурман · furmanvasyl.github.io
+</footer>
+</body>
+</html>

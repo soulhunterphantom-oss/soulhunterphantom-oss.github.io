@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+  <meta charset="UTF-8">
+  <title>Гурток «Юні краєзнавці»</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header>
+  <h1>Гурток «Юні краєзнавці»</h1>
+  <nav>
+    <a href="index.html">Головна</a>
+    <a href="about.html">Про автора</a>
+    <a href="materials.html">Методичні матеріали</a>
+    <a href="club.html">Гурток</a>
+    <a href="archive.html">Архів</a>
+  </nav>
+</header>
+
+<main>
+  <h2>Робота гуртка</h2>
+  <p>Тут можна розмістити плани занять, фото, звіти про заходи та дослідницькі роботи учнів.</p>
+</main>
+
+<footer>
+  © Василь Фурман
+</footer>
+</body>
+</html>

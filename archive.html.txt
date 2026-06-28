@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+  <meta charset="UTF-8">
+  <title>Архів публікацій</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header>
+  <h1>Архів публікацій</h1>
+  <nav>
+    <a href="index.html">Головна</a>
+    <a href="about.html">Про автора</a>
+    <a href="materials.html">Методичні матеріали</a>
+    <a href="club.html">Гурток</a>
+    <a href="archive.html">Архів</a>
+  </nav>
+</header>
+
+<main>
+  <h2>Список матеріалів</h2>
+  <ul>
+    <li>2013 – Сценарії виховних заходів</li>
+    <li>2014 – Розробки уроків</li>
+    <li>2015 – Матеріали для гуртка</li>
+  </ul>
+</main>
+
+<footer>
+  © Василь Фурман
+</footer>
+</body>
+</html>

@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+  <meta charset="UTF-8">
+  <title>Сценарій виховної години «День пам’яті»</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header>
+  <h1>Сценарій виховної години «День пам’яті»</h1>
+  <nav>
+    <a href="index.html">Головна</a>
+    <a href="materials.html">Методичні матеріали</a>
+    <a href="archive.html">Архів</a>
+  </nav>
+</header>
+
+<main>
+  <h2>Мета заходу</h2>
+  <p>Формувати в учнів повагу до історичної пам’яті, виховувати почуття відповідальності за майбутнє.</p>
+
+  <h2>Хід заходу</h2>
+  <p>Тут ти можеш вставити повний текст сценарію, який був на старому блозі.</p>
+</main>
+
+<footer>
+  © Василь Фурман
+</footer>
+</body>
+</html>

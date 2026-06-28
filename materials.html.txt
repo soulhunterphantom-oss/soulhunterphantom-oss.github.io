@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+  <meta charset="UTF-8">
+  <title>Методичні матеріали</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header>
+  <h1>Методичні матеріали</h1>
+  <nav>
+    <a href="index.html">Головна</a>
+    <a href="about.html">Про автора</a>
+    <a href="materials.html">Методичні матеріали</a>
+    <a href="club.html">Гурток</a>
+    <a href="archive.html">Архів</a>
+  </nav>
+</header>
+
+<main>
+  <h2>Сценарії та розробки</h2>
+  <ul>
+    <li><a href="post-1.html">Сценарій виховної години «День пам’яті»</a></li>
+    <li><a href="post-2.html">Розробка уроку з історії для 9 класу</a></li>
+    <li><a href="post-3.html">Матеріали для гуртка «Юні краєзнавці»</a></li>
+  </ul>
+</main>
+
+<footer>
+  © Василь Фурман
+</footer>
+</body>
+</html>
